@@ -6,7 +6,7 @@ I'm a passionate Python developer with a keen interest in back-end development. 
 
 ### GitHub Stats
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeKyReal&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeKyReal&show_icons=true&theme=github_dark)
 
 ### Top Projects
 ---
