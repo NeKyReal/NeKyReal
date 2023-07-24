@@ -1,7 +1,5 @@
 ### Profile Overview
 ---
-**Hello, World!**
-
 I'm a passionate Python developer with a keen interest in back-end development. Aspiring to contribute to exciting projects and learn from the vibrant developer community. Let's code together and build something awesome! 
 
 ### GitHub Stats
