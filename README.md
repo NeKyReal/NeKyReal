@@ -10,18 +10,18 @@ I'm a passionate Python developer with a keen interest in back-end development. 
 ---
 Here are some of my notable projects:
 
+1. **Recordum**
+   - Description: Recordum is an aggregator site of amenities and services. The site is written using Nest.js for the backend and Vue.js for the frontend.
+   - Repository: [Link](https://github.com/NeKyReal/Recordum)
+
 1. **CityEventer**
    - Description: CityScope is an aggregator site of city events. The site is written using Django and the Yandex.Maps API.
    - Repository: [Link](https://github.com/NeKyReal/CityScope)
 
 ### Skills
 ---
-- Python
-- Django
-- Flask
+- Python (Django, Flask)
 - C++ / C#
-- JavaScript / TypeScript
-- Node.js / Nest.js
+- JavaScript / TypeScript (Node.js, Nest.js)
 - SQL
 - RESTful APIs
-- Git
